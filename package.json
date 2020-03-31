@@ -1,0 +1,24 @@
+{
+    "name": "laser-tag-prototype",
+    "version": "1.0.0",
+    "description": "",
+    "scripts": {
+        "build": "tsc"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Cyborgtyrant/laser-tag-prototype.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Cyborgtyrant/laser-tag-prototype/issues"
+    },
+    "homepage": "https://github.com/Cyborgtyrant/laser-tag-prototype#readme",
+    "devDependencies": {
+        "prettier": "2.0.2"
+    },
+    "dependencies": {
+        "typescript": "^3.8.3"
+    }
+}
